@@ -1,9 +1,8 @@
 class ApiConstants {
-  // ✅ New Backend Base URL
-  static const String baseUrl = "https://erprld.com/api";
+  // ✅ Mobile Backend Base URL
+  static const String baseUrl = "http://3.110.68.228:5000/api";
   static const List<String> baseUrls = [
-    "https://erprld.com/api",
-    "https://dt-pro-two.onrender.com/api",
+    "http://3.110.68.228:5000/api",
   ];
 
   // -- Auth ----------------------
